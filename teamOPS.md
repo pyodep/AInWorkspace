@@ -2,6 +2,8 @@
 team: AInWorkspace
 members:
   - { github: pyodep, role: 관리자 }
+  - { github: wons07, role: 멤버 }
+  - { github: Gun-Doll9024, role: 멤버 }
 repos:
   - pyodep/AInWorkspace
 ---

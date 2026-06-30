@@ -7,6 +7,7 @@ members:
 repos:
   - pyodep/AInWorkspace
   - pyodep/weain
+  - pyodep/typin
 ---
 
 # AInWorkspace

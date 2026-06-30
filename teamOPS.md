@@ -6,6 +6,7 @@ members:
   - { github: Gun-Doll9024, role: 멤버 }
 repos:
   - pyodep/AInWorkspace
+  - pyodep/weain
 ---
 
 # AInWorkspace
